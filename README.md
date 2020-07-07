@@ -62,9 +62,4 @@ Here, I hope to learn from Yudi Tang's tutorial to learn more about the followin
 - [computer vision actual combat project (based on deep learning)] (# computer vision actual combat project (based on deep learning))
 - Natural language processing
 - [NLP actual combat project (based on deep learning)] (# NLP actual combat project (based on deep learning))
-=======
-# Introduction-to-Machine-Learning
->>>>>>> parent of fcc2fdf... Update README.md
-=======
-# Introduction-to-Machine-Learning
->>>>>>> parent of fcc2fdf... Update README.md
+
