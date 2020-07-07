@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Introduction-to-Machine-Learning
 I am a machine learning beginners, hope to gain more knowledge through the accumulation. This warehouse is mainly used to store my learning notes.
 
